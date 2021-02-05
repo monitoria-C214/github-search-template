@@ -1,0 +1,34 @@
+/* SEARCH  */
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 2rem auto;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.input {
+  border: 1px solid #fff;
+  display: block;
+  width: 18rem;
+  font-size: 1rem;
+  padding: 0.8rem;
+  border-radius: 0.4rem 0 0 0.4rem;
+  background: #fff;
+  transition: 0.2s;
+}
+
+.input:hover,
+.input:focus {
+  outline: none;
+  border-color: #2B2D42;
+  background: #fff;
+  box-shadow: 0 0 0 3px #8D99AE;
+}
