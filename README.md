@@ -1,7 +1,7 @@
 
 <p align="center">  
-  <a href="https://github.com/VanessaSwerts/github-search/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/github-search">
+  <a href="https://github.com/VanessaSwerts/github-search-template/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/github-search-template">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
@@ -9,7 +9,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧 GitHub Search - em desenvolvimento 🚧
+	🚧 GitHub Search Template - Concluído 🚧
 </h4>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 💻 Sobre o projeto
 
-GitHub Search é um projeto desenvolvido para as aulas de Teste Unitário e Teste Mock da monitoria de Engenharia de Software (C214).
+GitHub Search é um projeto desenvolvido para as aulas de Teste Unitário e Teste Mock da monitoria de Engenharia de Software (C214), neste repositório se encontra o template do código que será utilizado para a criação dos testes. 
 
 ---
 
@@ -55,10 +55,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
     $ yarn install
 
     # Execute a aplicação
-    $ yarn start
-    
-    #Execute os testes
-    $ yarn test
+    $ yarn start    
 
     # O servidor inciará na porta:3000 - acesse http://localhost:3000 .
    ```
