@@ -1,8 +1,5 @@
 
 <p align="center">  
-  <a href="https://github.com/VanessaSwerts/github-search-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/github-search-template">
-  </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
  
