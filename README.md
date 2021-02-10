@@ -45,10 +45,10 @@ Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-
 
    ```bash
     # Clone este repositório
-    $ git clone https://github.com/VanessaSwerts/github-search.git
+    $ git clone https://github.com/monitoria-C214/github-search-template.git
 
     # Acesse a pasta do projeto no seu terminal/cmd
-    $ cd insta-cakes
+    $ cd insta-github-search-template
 
     # Instale as dependências
     $ yarn install
