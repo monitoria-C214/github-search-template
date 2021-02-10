@@ -48,7 +48,7 @@ Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-
     $ git clone https://github.com/monitoria-C214/github-search-template.git
 
     # Acesse a pasta do projeto no seu terminal/cmd
-    $ cd insta-github-search-template
+    $ cd github-search-template
 
     # Instale as dependências
     $ yarn install
