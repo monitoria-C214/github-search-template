@@ -37,16 +37,18 @@ GitHub Search é um projeto desenvolvido para as aulas de Teste Unitário e Test
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/)
 
+Para configurar o ambiente, [clique aqui!](https://www.notion.so/Configurando-o-Ambiente-React-JS-77e7ee6319404b729172e5b0cd78a082)
+
 #### Executando o projeto
 
 ##### 🧭 Rodando a aplicação Frontend
 
    ```bash
     # Clone este repositório
-    $ git clone https://github.com/VanessaSwerts/github-search.git
+    $ git clone https://github.com/monitoria-C214/github-search-template.git
 
     # Acesse a pasta do projeto no seu terminal/cmd
-    $ cd insta-cakes
+    $ cd github-search-template
 
     # Instale as dependências
     $ yarn install
